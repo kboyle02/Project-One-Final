@@ -1,0 +1,555 @@
+/* screen - desktop-3 */
+
+.div {
+  font-family: "KaftanSerif";
+  src: url('Kaftan Serif.otf');
+}
+
+
+.desktop-3 {
+  background-color: rgba(249,249,241,1.0);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3928px;
+  min-width: 1440px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.desktop-3 .arrow-1-KOsP6k {
+  background-color: transparent;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 10px;
+  transform: rotate(180.00deg);
+  width: 8px;
+}
+.desktop-3 .cha-cha-ma-mctcha-cha-C61RwL {
+  background-color: transparent;
+  height: 55px;
+  left: -135px;
+  position: absolute;
+  top: 3082px;
+  width: 2016px;
+}
+.desktop-3 .congrats-y-hirst-trap-C61RwL {
+  background-color: transparent;
+  color: var(--rangoon-green);
+  font-family: 'Kaftan Serif-Regular', Helvetica, Arial, serif;
+  font-size: 120px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 118px;
+  letter-spacing: 0.00px;
+  line-height: 109.8px;
+  position: absolute;
+  text-align: center;
+  top: 160px;
+  width: 1206px;
+}
+.desktop-3 .drink-matc-a-be-happy-C61RwL {
+  background-color: transparent;
+  color: var(--rangoon-green);
+  font-family: "Kaftan Serif", Helvetica, Arial, serif;
+  src: url('Kaftan Serif.otf');
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: -55px;
+  letter-spacing: 0.00px;
+  line-height: 12.7px;
+  position: absolute;
+  text-align: center;
+  top: 115px;
+  transform: rotate(-90.00deg);
+  width: 190px;
+}
+.desktop-3 .ellipse-26-KOsP6k {
+  background-color: transparent;
+  height: 43px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(180.00deg);
+  width: 43px;
+}
+.desktop-3 .ellipse-28-C61RwL {
+  background-color: transparent;
+  height: 128px;
+  left: 940px;
+  position: absolute;
+  top: 1400px;
+  width: 127px;
+}
+.desktop-3 .ellipse-29-C61RwL {
+  background-color: transparent;
+  height: 80px;
+  left: 280px;
+  position: absolute;
+  top: 3399px;
+  width: 230px;
+}
+.desktop-3 .ellipse-30-C61RwL {
+  background-color: transparent;
+  height: 80px;
+  left: 820px;
+  position: absolute;
+  top: 3399px;
+  width: 420px;
+}
+.desktop-3 .frame-C61RwL {
+  background-color: transparent;
+  background-image: url(Star.png);
+  background-size: 100% 100%;
+  height: 350px;
+  left: 140px;
+  overflow: hidden;
+  position: absolute;
+  top: 126px;
+  width: 308px;
+}
+.desktop-3 .frame-PIEh7b {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 58px;
+}
+.desktop-3 .frame-SO40Oe {
+  background-color: transparent;
+  height: 26px;
+  left: 21px;
+  overflow: hidden;
+  position: relative;
+  top: 15px;
+  width: 19px;
+}
+.desktop-3 .frame-lpH0Xw {
+  background-color: transparent;
+  height: 39.68%;
+  left: 32.76%;
+  overflow: hidden;
+  position: absolute;
+  top: 31.75%;
+  width: 41.38%;
+}
+.desktop-3 .full-of-matcha-C61RwL {
+  background-color: transparent;
+  color: var(--tickle-me-pink);
+  font-family: 'Monument Extended-Black', Helvetica, Arial, serif;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 115px;
+  letter-spacing: 0.00px;
+  line-height: 87.4px;
+  position: absolute;
+  text-align: center;
+  top: 578px;
+  white-space: nowrap;
+  width: 1227px;
+}
+.desktop-3 .group-4-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 698px;
+  position: absolute;
+  top: 700px;
+  transform: rotate(-180.00deg);
+  width: 43px;
+}
+.desktop-3 .group-5-C61RwL {
+  background-color: transparent;
+  height: 1.78%;
+  left: 91.11%;
+  position: absolute;
+  top: 5.09%;
+  width: 4.86%;
+}
+.desktop-3 .group-6-C61RwL {
+  background-color: transparent;
+  height: 63px;
+  left: 1318px;
+  position: absolute;
+  top: 276px;
+  width: 58px;
+}
+.desktop-3 .group-7-C61RwL {
+  background-color: transparent;
+  background-image: url(ellipse-33@2x.png);
+  background-size: 100% 100%;
+  height: 56px;
+  left: 1319px;
+  position: absolute;
+  top: 351px;
+  width: 56px;
+}
+.desktop-3 .group-BE9y2Q {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 99.99%;
+}
+.desktop-3 .group-MGexY9 {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100.00%;
+}
+.desktop-3 .group-Z73p72 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.desktop-3 .group-iZjIT4 {
+  background-color: transparent;
+  height: 23px;
+  left: 28px;
+  position: absolute;
+  top: 24px;
+  transform: rotate(-180.00deg);
+  width: 14px;
+}
+.desktop-3 .heck-yeah-C61RwL {
+  background-color: transparent;
+  color: var(--rangoon-green);
+  font-family: 'Kaftan Serif-Regular', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 331px;
+  letter-spacing: 0.00px;
+  line-height: 21.8px;
+  position: absolute;
+  text-align: left;
+  top: 3427px;
+  width: 322px;
+}
+.desktop-3 .hover-to-C61RwL {
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Monument Extended-Regular', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 940px;
+  letter-spacing: 0.00px;
+  line-height: 11.8px;
+  position: absolute;
+  text-align: center;
+  top: 1447px;
+  width: 129px;
+}
+.desktop-3 .line-6-C61RwL {
+  background-color: transparent;
+  height: 280px;
+  left: 160px;
+  position: absolute;
+  top: 1325px;
+  width: 1px;
+}
+.desktop-3 .nah-id-rat-t-be-happy-C61RwL {
+  background-color: transparent;
+  color: var(--rangoon-green);
+  font-family: 'Kaftan Serif-Regular', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 866px;
+  letter-spacing: 0.00px;
+  line-height: 21.8px;
+  position: absolute;
+  text-align: left;
+  top: 3427px;
+  width: 497px;
+}
+.desktop-3 .nope-C61RwL {
+  background-color: transparent;
+  color: var(--tickle-me-pink);
+  font-family: 'Monument Extended-Black', Helvetica, Arial, serif;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 400px;
+  letter-spacing: 0.00px;
+  line-height: 87.4px;
+  position: absolute;
+  text-align: center;
+  top: 2348px;
+  white-space: nowrap;
+  width: 1227px;
+}
+.desktop-3 .play-C61RwL {
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Monument Extended-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 940px;
+  letter-spacing: 0.00px;
+  line-height: 25.5px;
+  position: absolute;
+  text-align: center;
+  top: 1461px;
+  width: 129px;
+}
+.desktop-3 .rectangle-10-C61RwL {
+  background-color: rgba(121,144,72,1.0);
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 3060px;
+  width: 1440px;
+}
+.desktop-3 .screen-sho-1-at-342-1-C61RwL {
+  background-color: transparent;
+  height: 501px;
+  left: 760px;
+  object-fit: cover;
+  position: absolute;
+  top: 1220px;
+  width: 500px;
+}
+.desktop-3 .screen-sho-1-at-431-1-C61RwL {
+  background-color: transparent;
+  height: 465px;
+  left: 120px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 916px;
+  transition: all 0.2s ease;
+  width: 349px;
+}
+.desktop-3 .screen-sho-1-at-431-1-C61RwL:hover {
+
+filter: blur(10px);
+}
+.desktop-3 .screen-sho-1-at-432-1-C61RwL {
+  background-color: transparent;
+  height: 231px;
+  left: 866px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2100px;
+  transition: all 0.2s ease;
+  width: 248px;
+}
+.desktop-3 .screen-sho-1-at-432-1-C61RwL:hover {
+
+filter: blur(15px);
+}
+.desktop-3 .screen-sho-1-at-504-1-C61RwL {
+  background-color: transparent;
+  height: 251px;
+  left: 120px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1800px;
+  transition: all 0.5s ease;
+  width: 404px;
+}
+.desktop-3 .screen-sho-1-at-504-1-C61RwL:hover {
+
+filter: blur(15px);
+}
+.desktop-3 .screen-sho-1-at-506-1-C61RwL {
+  background-color: transparent;
+  height: 378px;
+  left: 236px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2534px;
+  transition: all 0.5s ease;
+  width: 330px;
+}
+.desktop-3 .screen-sho-1-at-506-1-C61RwL:hover {
+
+filter: blur(15px);
+}
+
+.desktop-3 .she-cute-C61RwL {
+  background-color: transparent;
+  color: var(--rangoon-green);
+  font-family: KaftanSerif;
+  src:url('KaftanSerif.otf');
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 393px;
+  letter-spacing: 0.00px;
+  line-height: 32.8px;
+  position: absolute;
+  text-align: left;
+  top: 945px;
+  width: 762px;
+}
+.desktop-3 .ugh-have-y--beautiful-C61RwL {
+  background-color: transparent;
+  color: var(--rangoon-green);
+  font-family: 'Kaftan Serif-Regular', Helvetica, Arial, serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 700px;
+  letter-spacing: 0.00px;
+  line-height: 43.7px;
+  position: absolute;
+  text-align: left;
+  top: 2292px;
+  width: 762px;
+}
+.desktop-3 .vector-O6xZLO {
+  background-color: transparent;
+  height: 102.00%;
+  left: -1.04%;
+  position: absolute;
+  top: -1.00%;
+  width: 102.08%;
+}
+.desktop-3 .vector-OAD7W2 {
+  background-color: transparent;
+  height: 105.16%;
+  left: -4.45%;
+  position: absolute;
+  top: -2.58%;
+  transform: rotate(180.00deg);
+  width: 108.89%;
+}
+.desktop-3 .vector-Rb9u5J {
+  background-color: transparent;
+  height: 23.08%;
+  left: 12.61%;
+  position: absolute;
+  top: 0px;
+  width: 10.53%;
+}
+
+.desktop-3 .vector-gufFyG {
+  background-color: transparent;
+  height: 350px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 309px;
+}
+
+.desktop-3 .vector-gly6Sz {
+  background-color: transparent;
+  height: 23.08%;
+  left: 29.04%;
+  position: absolute;
+  top: 0px;
+  width: 13.16%;
+}
+.desktop-3 .vector-iZjIT4 {
+  background-color: transparent;
+  height: 108.57%;
+  left: -4.29%;
+  position: absolute;
+  top: -4.29%;
+  width: 108.57%;
+}
+.desktop-3 .vector-lpH0Xw {
+  background-color: transparent;
+  height: 103.17%;
+  left: -1.72%;
+  position: absolute;
+  top: -1.59%;
+  width: 103.45%;
+}
+.desktop-3 .vector-tcUQU6 {
+  background-color: transparent;
+  height: 71.15%;
+  left: 0px;
+  position: absolute;
+  top: 29.95%;
+  width: 100.01%;
+}
+.desktop-3 .vector-uAxao6 {
+  background-color: transparent;
+  height: 23.08%;
+  left: 47.20%;
+  position: absolute;
+  top: 0px;
+  width: 13.16%;
+}
+.desktop-3 .vector-yv5hAH {
+  background-color: transparent;
+  height: 42.00%;
+  left: 20.49%;
+  position: absolute;
+  top: 27.80%;
+  width: 29.17%;
+}
+.desktop-3 .want-to-ma-icious-cup-C61RwL {
+  background-color: transparent;
+  color: var(--tickle-me-pink);
+  font-family: 'Monument Extended-Black', Helvetica, Arial, serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: 43.7px;
+  position: absolute;
+  text-align: center;
+  top: 3240px;
+  width: 1227px;
+}
+.desktop-3 .website-st-ygrande-1-C61RwL {
+  background-color: transparent;
+  height: 435px;
+  left: calc(50.00% - 210px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% + 1492px);
+  width: 435px;
+}
+.desktop-3 .x-C61RwL {
+  background-color: transparent;
+  color: var(--rangoon-green);
+  font-family: 'Kaftan Serif-Regular', Helvetica, Arial, serif;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 626px;
+  letter-spacing: 0.00px;
+  line-height: 58.2px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 190px;
+}
+:root {
+  --rangoon-green: rgba(27,35,11,1.0);
+  --tickle-me-pink: rgba(243,137,182,1.0);
+}
