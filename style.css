@@ -1,9 +1,5 @@
 /* screen - desktop-3 */
 
-.div {
-  font-family: "KaftanSerif";
-  src: url('Kaftan Serif.otf');
-}
 
 
 .desktop-3 {
@@ -37,27 +33,26 @@
 .desktop-3 .congrats-y-hirst-trap-C61RwL {
   background-color: transparent;
   color: var(--rangoon-green);
-  font-family: 'Kaftan Serif-Regular', Helvetica, Arial, serif;
+  font-family: 'ivypresto-display', serif;
   font-size: 120px;
-  font-style: normal;
-  font-weight: 400;
+  font-style: italic;
+  font-weight: 100;
   height: auto;
   left: 118px;
   letter-spacing: 0.00px;
   line-height: 109.8px;
   position: absolute;
   text-align: center;
-  top: 160px;
+  top: 170px;
   width: 1206px;
 }
 .desktop-3 .drink-matc-a-be-happy-C61RwL {
   background-color: transparent;
   color: var(--rangoon-green);
-  font-family: "Kaftan Serif", Helvetica, Arial, serif;
-  src: url('Kaftan Serif.otf');
+  font-family: 'ivypresto-display', serif;
   font-size: 14px;
-  font-style: normal;
-  font-weight: 400;
+  font-style: italic;
+  font-weight: 100;
   height: auto;
   left: -55px;
   letter-spacing: 0.00px;
@@ -93,6 +88,9 @@
   top: 3399px;
   width: 230px;
 }
+
+
+
 .desktop-3 .ellipse-30-C61RwL {
   background-color: transparent;
   height: 80px;
@@ -142,7 +140,7 @@
 .desktop-3 .full-of-matcha-C61RwL {
   background-color: transparent;
   color: var(--tickle-me-pink);
-  font-family: 'Monument Extended-Black', Helvetica, Arial, serif;
+  font-family: 'gopher', sans-serif;
   font-size: 96px;
   font-style: normal;
   font-weight: 900;
@@ -152,7 +150,7 @@
   line-height: 87.4px;
   position: absolute;
   text-align: center;
-  top: 578px;
+  top: 460px;
   white-space: nowrap;
   width: 1227px;
 }
@@ -225,28 +223,45 @@
   width: 14px;
 }
 .desktop-3 .heck-yeah-C61RwL {
+  text-decoration: none;
   background-color: transparent;
   color: var(--rangoon-green);
-  font-family: 'Kaftan Serif-Regular', Helvetica, Arial, serif;
+  font-family: 'ivypresto-display', serif;
   font-size: 24px;
-  font-style: normal;
-  font-weight: 400;
+  font-style: italic;
+  font-weight: 100;
   height: auto;
-  left: 331px;
+  left: 350px;
   letter-spacing: 0.00px;
   line-height: 21.8px;
   position: absolute;
   text-align: left;
   top: 3427px;
   width: 322px;
+
+  
 }
+
+a {
+color: var(--rangoon-green);
+text-decoration: none;
+}
+
+.heck-yeah-C61RwL:hover{
+color: var(--tickle-me-pink);
+font-family: 'gopher', sans-serif;
+font-style: normal;
+font-weight: 900;
+ left: 335px;
+}
+
 .desktop-3 .hover-to-C61RwL {
   background-color: transparent;
   color: rgba(255,255,255,1.0);
-  font-family: 'Monument Extended-Regular', Helvetica, Arial, serif;
+  font-family: 'gopher', sans-serif;
   font-size: 13px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 900;
   height: auto;
   left: 940px;
   letter-spacing: 0.00px;
@@ -267,12 +282,12 @@
 .desktop-3 .nah-id-rat-t-be-happy-C61RwL {
   background-color: transparent;
   color: var(--rangoon-green);
-  font-family: 'Kaftan Serif-Regular', Helvetica, Arial, serif;
+  font-family: 'ivypresto-display', serif;
   font-size: 24px;
-  font-style: normal;
-  font-weight: 400;
+  font-style: italic;
+  font-weight: 100;
   height: auto;
-  left: 866px;
+  left: 900px;
   letter-spacing: 0.00px;
   line-height: 21.8px;
   position: absolute;
@@ -280,43 +295,44 @@
   top: 3427px;
   width: 497px;
 }
+
+a {
+color: var(--rangoon-green);
+text-decoration: none;
+}
+
+.nah-id-rat-t-be-happy-C61RwL:hover{
+color: var(--tickle-me-pink);
+font-family: 'gopher', sans-serif;
+font-style: normal;
+font-weight: 900;
+ left: 870px;
+}
+
+ 
 .desktop-3 .nope-C61RwL {
   background-color: transparent;
   color: var(--tickle-me-pink);
-  font-family: 'Monument Extended-Black', Helvetica, Arial, serif;
+  font-family: 'gopher', sans-serif;
   font-size: 96px;
   font-style: normal;
   font-weight: 900;
   height: auto;
-  left: 400px;
+  left: 240px;
   letter-spacing: 0.00px;
   line-height: 87.4px;
   position: absolute;
   text-align: center;
-  top: 2348px;
+  top: 2340px;
   white-space: nowrap;
   width: 1227px;
 }
-.desktop-3 .play-C61RwL {
-  background-color: transparent;
-  color: rgba(255,255,255,1.0);
-  font-family: 'Monument Extended-Regular', Helvetica, Arial, serif;
-  font-size: 28px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 940px;
-  letter-spacing: 0.00px;
-  line-height: 25.5px;
-  position: absolute;
-  text-align: center;
-  top: 1461px;
-  width: 129px;
-}
+
 .desktop-3 .rectangle-10-C61RwL {
-  background-color: rgba(121,144,72,1.0);
-  height: 60px;
+  background-color: transparent;
+  height: 55px;
   left: 0px;
+  object-fit: contain;
   position: absolute;
   top: 3060px;
   width: 1440px;
@@ -394,11 +410,10 @@ filter: blur(15px);
 .desktop-3 .she-cute-C61RwL {
   background-color: transparent;
   color: var(--rangoon-green);
-  font-family: KaftanSerif;
-  src:url('KaftanSerif.otf');
+  font-family: 'ivypresto-display', serif;
   font-size: 36px;
-  font-style: normal;
-  font-weight: 400;
+  font-style: italic;
+  font-weight: 100;
   height: auto;
   left: 393px;
   letter-spacing: 0.00px;
@@ -411,10 +426,10 @@ filter: blur(15px);
 .desktop-3 .ugh-have-y--beautiful-C61RwL {
   background-color: transparent;
   color: var(--rangoon-green);
-  font-family: 'Kaftan Serif-Regular', Helvetica, Arial, serif;
+   font-family: 'ivypresto-display', serif;
   font-size: 48px;
-  font-style: normal;
-  font-weight: 400;
+  font-style: italic;
+  font-weight: 100;
   height: auto;
   left: 700px;
   letter-spacing: 0.00px;
@@ -510,14 +525,14 @@ filter: blur(15px);
 .desktop-3 .want-to-ma-icious-cup-C61RwL {
   background-color: transparent;
   color: var(--tickle-me-pink);
-  font-family: 'Monument Extended-Black', Helvetica, Arial, serif;
-  font-size: 48px;
+  font-family: 'gopher', sans-serif;
+  font-size: 80px;
   font-style: normal;
   font-weight: 900;
   height: auto;
   left: 107px;
   letter-spacing: 0.00px;
-  line-height: 43.7px;
+  line-height: 69px;
   position: absolute;
   text-align: center;
   top: 3240px;
@@ -535,10 +550,10 @@ filter: blur(15px);
 .desktop-3 .x-C61RwL {
   background-color: transparent;
   color: var(--rangoon-green);
-  font-family: 'Kaftan Serif-Regular', Helvetica, Arial, serif;
+  font-family: 'ivypresto-display', serif;
   font-size: 64px;
-  font-style: normal;
-  font-weight: 400;
+  font-style: italic;
+  font-weight: 100;
   height: auto;
   left: 626px;
   letter-spacing: 0.00px;
